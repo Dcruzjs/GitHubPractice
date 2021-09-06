@@ -8,15 +8,14 @@ rm - removes a directory or file
 Git commands
 
 //initializes the local directory as a repository
-
 1. git init
 
-//star tracking files 2. git add <file name>
+//star tracking files 
+2. git add <file name>
 
 3. git commit -m "Adding readme with some commands"
 
 //link the repositories together.
-
 4.  git remote add origin <git-url>
 
 5.git push -u origin master
